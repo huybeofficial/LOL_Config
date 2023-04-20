@@ -1,0 +1,14 @@
+page-settings:
+    data:
+        pages: []
+        perShardPerkBooks:
+            vn2:
+                currentPageId: 640236196
+                pages: []
+        settings:
+            gameplayPatchVersionSeen: "11.23"
+            gameplayUpdatedPerksSeen: []
+            gridModeEnabled: false
+            showLongDescriptions: false
+            showPresetPages: true
+    schemaVersion: 5

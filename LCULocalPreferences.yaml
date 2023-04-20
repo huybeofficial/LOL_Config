@@ -1,0 +1,59 @@
+lol-audio:
+    data:
+        ambienceMusicEnabled: false
+        ambientSfxEnabled: false
+        banChampVoEnabled: true
+        masterSoundEnabled: true
+        masterVolume: 87
+        musicEnabled: false
+        pickChampVoEnabled: true
+        sfxEnabled: true
+        sfxVolume: 30
+        voiceEnabled: true
+        voiceVolume: 15
+    schemaVersion: 5
+lol-clash:
+    data:
+        simpleStateFlagIds:
+        - "registration_open_tournament_240621"
+        - "lock_in_open_tournament_240641_phase_240641"
+        - "registration_open_tournament_240641"
+        - "lock_in_open_tournament_240621_phase_240621"
+        - "registration_open_tournament_240661"
+    schemaVersion: 1
+lol-home:
+    data:
+        useTFTOverride: false
+    schemaVersion: 0
+lol-parties:
+    data:
+        permanentHideAutofillModal: true
+    schemaVersion: 1
+lol-premade-voice:
+    data:
+        currentCaptureDeviceHandle: "Default System Device"
+        inputVolume: 100
+        vadSensitivity: 65
+    schemaVersion: 1
+lol-replays:
+    data:
+        dontShowEogUsageTip: true
+    schemaVersion: 1
+lol-skins-viewer:
+    data:
+        completeSetIdMap: null
+        lastSessionId: "eyJraWQiOiJzMSIsInR5cCI6ImlkX3Rva2VuK2p3dCIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoiVjEzVmFob1NjQnd0TVFZTDc0OG5adyIsInN1YiI6IjdiZTcxNjJkLWIxMDYtNWY5ZS1hMjIwLTY3MTMzZTFmMjI1OSIsImNvdW50cnkiOiJ2bm0iLCJjb3VudHJ5X2F0IjoxNjY4NzgxOTYyMDAwLCJhbXIiOlsicGFzc3dvcmQiLCJjb29raWUiXSwiaXNzIjoiaHR0cHM6Ly9hdXRoLnJpb3RnYW1lcy5jb20iLCJsb2wiOlt7ImN1aWQiOjMxMTI1MjU4NTg1MDY2NTYsImNwaWQiOiJWTjIiLCJ1aWQiOjMxMTI1MjU4NTg1MDY2NTYsInVuYW1lIjoidHJhbnF1YW5nbmhhdDI4MDciLCJwdHJpZCI6bnVsbCwicGlkIjoiVk4yIiwic3RhdGUiOiJFTkFCTEVEIn1dLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiOmZhbHNlLCJsb2NhbGUiOiJ2aV9WTiIsIm5vbmNlIjoiZWpBbXlXemtCS2N6cEdfNi1rb25hUSIsImFjY291bnRfdmVyaWZpZWQiOmZhbHNlLCJhdWQiOiJsb2wiLCJhY3IiOiIwIiwibG9sX3JlZ2lvbiI6W3siYWN0aXZlIjp0cnVlLCJjcGlkIjoiVk4yIiwiY3VpZCI6MzExMjUyNTg1ODUwNjY1NiwibHAiOmZhbHNlLCJwaWQiOiJWTjIiLCJ1aWQiOjMxMTI1MjU4NTg1MDY2NTZ9XSwicGxheWVyX2xvY2FsZSI6InZpLVZOIiwiZXhwIjoxNjgxNTcyNDkyLCJpYXQiOjE2ODE0ODYwOTIsImFjY3QiOnsiZ2FtZV9uYW1lIjoicXVhbmduaGF0MjgwNyIsInRhZ19saW5lIjoiMjgwNyJ9LCJhZ2UiOjE4LCJqdGkiOiJ3OHhIWUZ2ZjQ2cyIsImxvZ2luX2NvdW50cnkiOiJ2bm0ifQ.AMhNYiGhAdE6xAAt3N9_W8uJP-1gQ2gU1vT5NO0q10hmt1u-96GuKvEIrZjNAtOlZnVI9jq52D7G3Mxq0BqawzxGgJZ9HUyinrAlxnLmcNCWkgqfCFpc_QTGea4VDGUAURKzzqmTacvat-prpFVH_ouy1CVA1uYljEi-6Yu-FNo"
+        lastVisitTime: 1681019909992
+        visitedSkinList: []
+    schemaVersion: 1
+lol-user-experience:
+    data:
+        hasBeenPromptedForPotatoMode: true
+        lastKnownMachineSpec: 5
+        potatoModeEnabled: true
+        unloadLeagueClientUx: "always"
+    schemaVersion: 3
+video:
+    data:
+        ZoomScale: 0.800000
+    schemaVersion: 1
